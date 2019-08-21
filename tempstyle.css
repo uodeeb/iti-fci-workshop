@@ -16,3 +16,7 @@ footer
 {
 	background-color: black;
 }
+.jumbotron my-4
+{
+	background-image: url('iti-cover.png");
+}
