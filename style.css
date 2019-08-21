@@ -34,3 +34,7 @@ p
     color:#F4F1E1;
     font-size: 20px;
 }
+.jumbotron my-4
+{
+    background-image: url("iti-cover.png");
+}
